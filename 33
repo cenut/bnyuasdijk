@@ -1,0 +1,10 @@
+{
+    "status": 200,
+    "data": {
+        "recharge_address": "TUjAd4xeRgSUmaGMvRnruEU6S3puA7tk8c",
+        "exchange_rate": "0.233211",
+        "note": "<p><span style=\"font-size: 10pt;\">1. Copy the address above or scan the QR code and choose Tron (TRC20) network to deposit USDT<\/span><\/p><p><span style=\"font-size: 10pt;\">2. Please do not recharge other non-<span style=\"font-size: 13.3333px;\">Tron(TRC20)<\/span>-USDT assets. The funds will arrive in your account in about 1 to 3 minutes<\/span><\/p><p><span style=\"font-size: 13.3333px;\">⚠️Please note: a single deposit must not be less than 5USDT, otherwise the exchange cannot automatically read it. <\/span><\/p><p> <\/p>",
+        "recharge_type": 1
+    },
+    "msg": "ok"
+}
